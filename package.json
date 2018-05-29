@@ -1,0 +1,23 @@
+{
+  "name": "npm-ci-invalid-optional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffora/npm-ci-invalid-optional.git"
+  },
+  "keywords": [],
+  "author": "jeffora@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffora/npm-ci-invalid-optional/issues"
+  },
+  "homepage": "https://github.com/jeffora/npm-ci-invalid-optional#readme",
+  "optionalDependencies": {
+    "left-pad": "git+https://github.com/jeffora/left-pad.git#custom-left-pad"
+  }
+}
